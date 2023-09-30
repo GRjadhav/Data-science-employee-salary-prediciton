@@ -3,13 +3,13 @@
 
 Flow:
 
-Data preprocessing part 1
-Categorizing the job title
-Categorizing the employee residence
-Categorizing the company location
-Data preprocessing part 2
-Exploratory data analysis(EDA)
-Detecting outliers
-Train test split
-Decesion tree regressor 
-Random forest regressor
+Data preprocessing part 1,
+Categorizing the job title,
+Categorizing the employee residence,
+Categorizing the company location,
+Data preprocessing part 2,
+Exploratory data analysis(EDA),
+Detecting outliers,
+Train test split,
+Decesion tree regressor, 
+Random forest regressor,
