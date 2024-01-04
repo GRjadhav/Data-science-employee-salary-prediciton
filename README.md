@@ -15,5 +15,3 @@ Decesion tree regressor,
 Random forest regressor,
 
 
-i have used a lot of references please tell if any mistake done 
-thank you!
